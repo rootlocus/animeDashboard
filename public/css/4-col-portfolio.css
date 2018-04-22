@@ -30,4 +30,16 @@ body {
 .card-body {
 	height: 250px;
     overflow-y: hidden;
+    padding: 0.5rem;
+}
+
+.card-title {
+    background: #dad8d8;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0rem;
+}
+
+.card-text {
+	padding: 10px;
 }
